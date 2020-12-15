@@ -1,5 +1,6 @@
 class Bird
   def talk
+    Hello rita
     puts "Chirp! Chirp!"
   end
   def move(destination)
