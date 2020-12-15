@@ -70,4 +70,6 @@ class Robot
   def rotate
     @n = (@n + 1) % 4
   end
+
+  
 end
